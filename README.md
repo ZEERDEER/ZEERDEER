@@ -16,27 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center"> <img src="https://profile-counter.glitch.me/ZEERDEER/count.svg" /> </div>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
   
 ![ZEER's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEERDEER&show_icons=true&count_private=true&theme=vue)  
 
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/a8e02740486d156ed733b03f084d45fd" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🚓 Grand Theft Auto V               🕘 2364 hrs 12 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 1869 hrs 25 mins
-🎮 Monster Hunter: World            🕘 653 hrs 29 mins
-🔫 Counter-Strike 2                 🕘 453 hrs 38 mins
-⚔️ Dota 2                           🕘 261 hrs 55 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-</td>
-</tr>
-</table>
 
 # ZEER
 
