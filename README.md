@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![ZEER's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEERDEER&show_icons=true&count_private=true&theme=vue)  
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/a8e02740486d156ed733b03f084d45fd" target="_blank">🎮 Steam playtime leaderboard</a>
 
 <!-- steam-box end -->
 
