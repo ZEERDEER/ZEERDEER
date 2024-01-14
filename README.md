@@ -8,4 +8,6 @@
 [![](https://img.shields.io/badge/Telegram-26a5e4?logo=telegram&labelColor=000000)](https://t.me/ZEERDEER)
 [![](https://img.shields.io/badge/YouTube-ff0000?logo=YouTube&logoColor=ff0000&labelColor=000000)](https://www.youtube.com/@zeer)
 
+![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
+
 <div align="center"> <img src="https://profile-counter.glitch.me/ZEERDEER/count.svg" /> </div>
